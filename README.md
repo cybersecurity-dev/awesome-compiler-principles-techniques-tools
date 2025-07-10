@@ -1,2 +1,1 @@
-# awesome-compiler-principles-techniques-tools
-Awesome Compiler Principles Techniques Tools
+# Awesome [Compiler](https://en.wikipedia.org/wiki/Compiler) [Principles](https://hpc-wiki.info/hpc/Compiler) [Techniques](http://wiki.osdev.org/Making_a_Compiler) [Tools](https://www.reddit.com/r/Compilers/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
