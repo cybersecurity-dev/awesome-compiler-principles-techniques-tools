@@ -6,6 +6,7 @@
 - [Contributors](#contributors)
 
 ## LLVM Tools
+* [llvm-as](https://llvm.org/docs/CommandGuide/llvm-as.html) - llvm-as is the LLVM assembler. It reads a file containing human-readable LLVM assembly language, translates it to LLVM bitcode, and writes the result into a file or to standard output.
 * [llvm-dis](https://llvm.org/docs/CommandGuide/llvm-dis.html) - The llvm-dis command is the LLVM disassembler. It takes an LLVM bitcode file and converts it into human-readable LLVM assembly language.
 * [llvm-readelf](https://llvm.org/docs/CommandGuide/llvm-readelf.html) - The llvm-readelf tool displays low-level format-specific information about one or more object files.
 
