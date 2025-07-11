@@ -1,4 +1,4 @@
-# Awesome [Compiler](https://en.wikipedia.org/wiki/Compiler) [Principles](https://hpc-wiki.info/hpc/Compiler) [Techniques](http://wiki.osdev.org/Making_a_Compiler) [Tools](https://www.reddit.com/r/Compilers/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Compiler](https://en.wikipedia.org/wiki/Compiler) [Principles](https://hpc-wiki.info/hpc/Compiler) [Techniques](http://wiki.osdev.org/Making_a_Compiler) [Tools](https://www.reddit.com/r/Compilers/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWINf4BVoCw0-4SJkjAXaKD&si=KsGRH38DUGX5hiWw)
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
