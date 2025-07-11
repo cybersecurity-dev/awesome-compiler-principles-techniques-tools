@@ -7,7 +7,7 @@
 
 ## LLVM Tools
 * [llvm-dis](https://llvm.org/docs/CommandGuide/llvm-dis.html) - The llvm-dis command is the LLVM disassembler. It takes an LLVM bitcode file and converts it into human-readable LLVM assembly language.
-
+* [llvm-readelf](https://llvm.org/docs/CommandGuide/llvm-readelf.html) - The llvm-readelf tool displays low-level format-specific information about one or more object files.
 
 ### My Other Awesome Lists
 * [awesome-advanced-persistent-threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
