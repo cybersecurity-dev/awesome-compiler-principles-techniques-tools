@@ -5,6 +5,10 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## LLVM Tools
+* [llvm-dis](https://llvm.org/docs/CommandGuide/llvm-dis.html) - The llvm-dis command is the LLVM disassembler. It takes an LLVM bitcode file and converts it into human-readable LLVM assembly language.
+
+
 ### My Other Awesome Lists
 * [awesome-advanced-persistent-threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
 * [awesome-advanced-persistent-threat-scientific-research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
