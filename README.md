@@ -1,4 +1,11 @@
 # Awesome [Compiler](https://en.wikipedia.org/wiki/Compiler) [Principles](https://hpc-wiki.info/hpc/Compiler) [Techniques](http://wiki.osdev.org/Making_a_Compiler) [Tools](https://www.reddit.com/r/Compilers/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWINf4BVoCw0-4SJkjAXaKD&si=KsGRH38DUGX5hiWw)
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+</p>
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
