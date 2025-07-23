@@ -18,6 +18,12 @@
 * [llvm-dis](https://llvm.org/docs/CommandGuide/llvm-dis.html) - The llvm-dis command is the LLVM disassembler. It takes an LLVM bitcode file and converts it into human-readable LLVM assembly language.
 * [llvm-readelf](https://llvm.org/docs/CommandGuide/llvm-readelf.html) - The llvm-readelf tool displays low-level format-specific information about one or more object files.
 
+## Data Structure
+- [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) - Abstract syntax tree
+- [CFG](https://en.wikipedia.org/wiki/Control-flow_graph) - Control-flow graph
+- [DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph) - Directed acyclic graph
+
+##
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
